@@ -1,0 +1,85 @@
+.container_carrocel{
+    position: relative;
+    width: 100%;
+    height: 110px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid rgb(208, 208, 208);
+    margin-bottom: 20px;
+    align-items: center;
+    display: flex;
+
+    
+}
+.centralizar_carrocel{
+    width: 95%;
+    height: 100px;
+    margin:auto;
+   /* background-color: aqua;*/
+    display:flex;
+    flex-direction: column;
+
+}
+.pessoas{
+    display:flex;
+    align-items: center;
+    
+    width: 20%;
+    height:100%;
+   /* background: rgb(144, 144, 144);*/
+   /* border: 1px solid #000;*/
+}
+.divisao{
+    display:flex;
+    width: 100%;
+    height:80%;
+   /* background: rgb(144, 144, 144);*/
+   
+}
+.status{
+    position: relative;
+    border:2px solid rgb(212, 16, 180);
+    
+    margin:auto;
+    width: 40%;
+    height: 60%;
+    
+    border-radius: 50%;
+    align-items: center;
+}
+.circle_perfil{
+    position: relative;
+    border:2px solid rgb(255, 255, 255);
+    
+    margin:auto;
+    width: 91%;
+    height: 92%;
+    
+    border-radius: 50%;
+    align-items: center;
+}
+.container_nomes{
+    width:100%;
+    height: 20%;
+   
+    display: flex;
+    flex-direction: row;
+}
+.nomes{
+    display:flex;
+    color:rgb(145, 145, 145);
+    align-items: center;
+    width: 20%;
+    height:100%;
+    
+    
+}
+.nomes p{
+    margin: auto;
+    font-size: 11px;
+}
+
+.usu1 img{
+    width: 100%;
+    height: 20%;
+}

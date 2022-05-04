@@ -1,0 +1,34 @@
+.conteudo_global{
+    position: relative;
+    width:100%;
+    height: 1000px;
+   /* background-color: rgb(138, 138, 183);*/
+    
+}
+.centralizar_global{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    /*background-color: beige;*/
+    width: 70%;
+    height: 100%;
+    
+}
+.publicacoes{
+    
+    margin: 90px 0;
+    display: flex;
+    position: relative;
+    width: 65%;
+    height: 100%;
+  /*  background-color: blueviolet;*/
+    flex-direction: column;
+}
+.usuario{
+    margin: 2% 2.5%;
+    position: relative;
+    display: flex;
+    width: 30%;
+    height: 400px;
+   /* background-color: aqua; user*/
+}
